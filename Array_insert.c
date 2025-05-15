@@ -2,8 +2,8 @@
 
 int main() {
     int arr[100];
-    int n, i, pos, value;
-
+    int n, pos, value;
+    int i;
     
     printf("Enter the number of elements in the array: ");
     scanf("%d", &n);
